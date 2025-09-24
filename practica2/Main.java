@@ -26,7 +26,7 @@ public class Main {
                 System.out.println("Paralela (a = rb): " + algebraParalela.paralela());
                 System.out.println("Paralela (a×b = 0): " + algebraParalela.paralela(true));
                 
-                System.out.println("\n--- Proyección y Componente ---");
+                System.out.println("\n--- Proyeccion y Componente ---");
                 try {
                         Vector3D proyeccion = algebra.proyeccion();
                         System.out.println("Proyección de A sobre B: " + proyeccion);
