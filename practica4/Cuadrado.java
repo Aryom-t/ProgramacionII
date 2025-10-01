@@ -1,9 +1,5 @@
 package Practica4;
 
-/**
- * Clase Cuadrado
- * @author ray-r
- */
 class Cuadrado extends Figura implements Coloreado {
     private double lado;
     

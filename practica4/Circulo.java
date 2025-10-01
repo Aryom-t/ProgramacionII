@@ -1,9 +1,5 @@
 package Practica4;
 
-/**
- * Clase Circulo
- * @author ray-r
- */
 class Circulo extends Figura {
     private double radio;
     

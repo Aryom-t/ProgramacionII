@@ -1,9 +1,5 @@
 package Practica4;
 
-/**
- * Clase abstracta Figura
- * @author ray-r
- */
 abstract class Figura {
     protected String color;
     
